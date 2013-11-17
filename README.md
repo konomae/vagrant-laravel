@@ -3,6 +3,7 @@
 
 ## 利用条件
 
+- Mac OS X 10.8 以上
 - VirtualBox 4.3.0 以上
 - Vagrant 1.3.5 以上
 
